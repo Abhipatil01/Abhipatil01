@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhipatil01
 - 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React/Typescript
 - 💞️ I’m looking to collaborate on anything related to React and JavaScript
 - 📫 How to reach me linkedin/abhijeet--patil
 
